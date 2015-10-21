@@ -1,1 +1,16 @@
 @import "app";
+body {
+  background-color: white;
+}
+.breadcrumb{
+  background-color: #222;
+}
+.navbar-inverse .navbar-brand{
+  color:#33CCCC;
+}
+.navbar-inverse .navbar-nav>li>a{
+  color:#33CCCC;
+}
+a{
+  color:#33CCCC;
+}
